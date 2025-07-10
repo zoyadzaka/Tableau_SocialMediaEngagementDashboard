@@ -40,7 +40,6 @@ Source: [Kaggle - Social Media Engagement Dataset](https://www.kaggle.com/datase
 
 ## 👤 Author
 **M. Zoyadzakaria W**  
-📫 [LinkedIn or Email (optional)]
 
 ---
 
